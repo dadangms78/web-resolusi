@@ -1,8 +1,0 @@
-Rencana Konten Web
-- Javascrip
-  * freamwork Javascript
-  * Angular
-  * React
-- PHP Freamwork
-  * Laravel
-- Boostrap
